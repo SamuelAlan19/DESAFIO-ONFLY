@@ -46,6 +46,9 @@ Causa raiz: o leitor tinha if len(rows) == 200: break, um limite fixo que interr
 
 Após a leitura inicial, foi-se identificada a necessidade de utilização de Inteligência Artificial para resolução deste, sendo assim realizei toda descrição funcional do que eu precisava que fosse obtido através do prompt para que, desta forma, surtisse o resultado esperado!
 
+<img width="1105" height="378" alt="image" src="https://github.com/user-attachments/assets/2c13007f-b7d1-4232-9d07-9c128836cc9e" />
+
+
 # COMO VALIDAR O RESULTADO DO ```PYTEST```
 
 Após subir os arquivos para o repositório no GutHub, realizei a criação de um ```CODESPACE``` a fim de executar o comando descrito ```pytest -q```. 
